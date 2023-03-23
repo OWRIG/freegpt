@@ -1,0 +1,15 @@
+{
+  "securityMessage": "We prioritise the security of your API key and handle it with utmost care. Your key is exclusively stored on your browser and never shared with any third-party entity. It is solely used for the intended purpose of accessing the OpenAI API and not for any other unauthorised use.",
+  "apiEndpoint": {
+    "option": "Use for free",
+    "inputLabel": "API Endpoint",
+    "description": "Thank you to <0>Ayaka</0> for providing the free API endpoint: https://chatgpt-api.shn.hk/v1/"
+  },
+  "apiKey": {
+    "option": "Use your own API key",
+    "howTo": "Get your personal API key <0>here</0>",
+    "inputLabel": "API Key"
+  },
+  "customEndpoint": "Use custom API endpoint",
+  "shareGPT": "Checkout <0>ShareGPT</0>, a API key sharing tool that powers https://sharegpt.churchless.tech/share/v1/chat"
+}
